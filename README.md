@@ -33,6 +33,10 @@ https://pwa-text-editor100.herokuapp.com/
 
 ## Screenshots of Website
 
+![alt text](./images/jate-1.png 'my screens')
+![alt text](./images/jate-2.png 'my screens')
+![alt text](./images/jate-3.png 'my screens')
+
 ## License
 
 [![license](https://img.shields.io/badge/license-MIT-blue)](https://shields.io)
